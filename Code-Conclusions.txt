@@ -1,0 +1,7 @@
+'''After completing the downsampling, the Decision Tree Classifier had an 
+f1 test score of 0.582 which occured with high recall of 0.628 and low precision of 0.541. 
+This means this model is good at having fewer false negatives, but has more false positives. 
+The Random Forest Classifier's f1 test score was 0.576 with a recall score of 0.596 and a precision score of 0.558. 
+This means the random forest is more balanced, but is slightly more common to have false positives, 
+and fewer false negatives, but not by a lot. 
+In final, both models would likely need higher upsampling to increase recall.'''

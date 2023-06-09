@@ -1,7 +1,3 @@
-<h1>Project description</h1><div class="paragraph">
-Beta Bank customers are leaving: little by little, chipping away every month. 
-The bankers figured out it’s cheaper to save the existing customers rather than to attract new ones.
-</div>
 <div class="paragraph">
 INITIAL TEST CONCLUSION
 Initial valid f1 scores for both models are right at 0.54. However, both models 
